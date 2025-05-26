@@ -27,7 +27,7 @@ I'm always up for collaborations or a chat about tech. Check out my projects, or
   <a href="https://github.com/[Your Username]">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="[https://www.linkedin.com/in/[Your LinkedIn]](https://www.linkedin.com/in/sade-hillman-374149344/)">
+  <a href="https://www.linkedin.com/in/[Your LinkedIn]](https://www.linkedin.com/in/sade-hillman-374149344/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
